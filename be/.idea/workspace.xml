@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4cf2d9b-4a8f-44e7-bfbe-6c3c2e81626a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../be/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../be/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CurrentTicketTable.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CurrentTicketTable.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/account/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/account/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/404Page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/user/ManageTicketOut.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/user/ManageTicketOut.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22JWkj5XIY1ad7vd479EkeNBvS0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Study_HUST/20211/ProjectIII" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="C:\Users\chien\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\212.5457.55\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ProjectIII_Đại\parking-system\fe\src\assets\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ProjectIII_Đại\parking-system\fe\src\assets\imgs" />
+      <recent name="E:\ProjectIII_Đại\parking-system\fe\src\views" />
+      <recent name="E:\ProjectIII_Đại\parking-system\fe\src\views\admin" />
+      <recent name="E:\ProjectIII_Đại\parking-system\fe\src\components" />
+      <recent name="E:\ProjectIII_Đại\parking-system\fe\src\assets\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4cf2d9b-4a8f-44e7-bfbe-6c3c2e81626a" name="Changes" comment="" />
+      <created>1639556314580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639556314580</updated>
+      <workItem from="1639556315838" duration="1638000" />
+      <workItem from="1639731264673" duration="2732000" />
+      <workItem from="1639745209925" duration="1330000" />
+      <workItem from="1640137661555" duration="69000" />
+      <workItem from="1640887671455" duration="1293000" />
+      <workItem from="1641219958154" duration="5942000" />
+      <workItem from="1641234418461" duration="217000" />
+      <workItem from="1641234743939" duration="81000" />
+      <workItem from="1641236211021" duration="69000" />
+      <workItem from="1641354993630" duration="12393000" />
+      <workItem from="1641388496224" duration="9435000" />
+      <workItem from="1641482416837" duration="607000" />
+      <workItem from="1641491914071" duration="6856000" />
+      <workItem from="1641546314769" duration="5242000" />
+      <workItem from="1641577014393" duration="4000000" />
+      <workItem from="1641626329889" duration="5362000" />
+      <workItem from="1641750934419" duration="4137000" />
+      <workItem from="1641811650436" duration="20895000" />
+      <workItem from="1641891268243" duration="11552000" />
+      <workItem from="1641918101944" duration="308000" />
+      <workItem from="1641962872293" duration="10098000" />
+      <workItem from="1642099622079" duration="480000" />
+      <workItem from="1642349419274" duration="980000" />
+      <workItem from="1642375355739" duration="2469000" />
+      <workItem from="1642390774616" duration="9217000" />
+      <workItem from="1642415833432" duration="739000" />
+      <workItem from="1642430154615" duration="5545000" />
+      <workItem from="1642492262584" duration="595000" />
+      <workItem from="1642512380166" duration="3420000" />
+      <workItem from="1642521318174" duration="4000" />
+      <workItem from="1642531073977" duration="3564000" />
+      <workItem from="1642566735526" duration="641000" />
+      <workItem from="1642588363990" duration="1681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/CurrentTicketTable.vue</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/CurrentTicketTable.vue</url>
+          <line>95</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/ManageAccount.vue</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/AccountTable.vue</url>
+          <line>82</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
