@@ -1,4 +1,4 @@
-# parking-system
+# Parking-system
 
 Bước 1: Cài đặt MongoDB và MongoDB Compass để truy cập cơ sở dữ liệu
 
@@ -21,4 +21,3 @@ Bước 6: Chạy lệnh npm install trên 2 cửa sổ CMD/terminal
 Bước 7: Sau khi các gói cài đặt đã hoàn tất
 - Ở cửa số be: chạy lệnh node index.js
 - Ở cửa sổ fe: chạy lệnh npm run serve
-
