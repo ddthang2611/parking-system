@@ -12,6 +12,18 @@ router.get('/all', async (req, res) => {
   res.send(tickets);
 });
 
+// lấy tất cả các vé tháng
+router.get('/month_ticket/:page', async (req, res) => {
+  let perPage = 10
+  let page = req.params.page || 1
+
+  const tickets = await Ticket.find({used: true })
+    // .find({ vehicle_type: "ngay" })
+    // .skip((perPage * page) - perPage)
+    // .limit(perPage)
+  res.send(tickets);
+});
+
 // lấy các vé theo page
 router.get('/:page', async (req, res) => {
   let perPage = 10
