@@ -44,7 +44,7 @@
                     </form>
                     <hr />
                     <div class="text-center">
-                      <a class="small" href="#">Quên mật khẩu?</a>
+                      <a class="small" v-on:click="handleForGot" href="#">Quên mật khẩu?</a>
                     </div>
                   </div>
                 </div>
@@ -98,6 +98,9 @@ export default {
       }
     },
     ...mapActions('account', ["submitUser"]),
+    handleForGot() {
+      alert("Vui lòng liên hệ với quản trị viên của bạn");
+    }
   },
 };
 </script>

@@ -14,9 +14,10 @@
             <div class="card shadow mb-4 mx-auto">
               <div class="card-header py-3">
                 <h6 class="m-0 font-weight-bold text-primary">
-                  Tạo hoặc gia hạn vé tháng
+                  Danh sách vé tháng
                 </h6>
               </div>
+              <MonthTicket :currentTickets="tickets"/>
               <div class="card-body w-100 d-sm-flex justify-content-between">
                 <button
                   v-on:click="createMonthTicket"
@@ -62,6 +63,7 @@ import "@/assets/styles/dataTables.bootstrap4.css";
 import Dashboard from "@/components/Dashboard";
 import Footer from "@/components/Footer";
 import NavBar from "@/components/NavBar";
+import MonthTicket from "../../components/MonthTicket.vue";
 import CreateMonthTicket from "@/components/CreateMonthTicket";
 import UpdateMonthTicket from "@/components/UpdateMonthTicket";
 import { mapState } from "vuex";
@@ -88,6 +90,7 @@ export default {
   computed: {
     ...mapState({
       token: (state) => state.account.user.token,
+      tickets: (state) => state.ticket.tickets,
     }),
   },
   components: {
@@ -96,6 +99,7 @@ export default {
     NavBar,
     CreateMonthTicket,
     UpdateMonthTicket,
+    MonthTicket,
   },
 };
 </script>
