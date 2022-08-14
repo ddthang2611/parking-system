@@ -1,38 +1,6 @@
 [{
   "_id": {
-    "$oid": "61b75ffdf97ece3830bd1d31"
-  },
-  "ticket_type": "ngay",
-  "vehicle_type": "",
-  "used": true,
-  "license_plate": "",
-  "time_in": {
-    "$date": ""
-  },
-  "__v": 0,
-  "IDs": "000001",
-  "due_date": {
-    "$date": ""
-  }
-},{
-  "_id": {
-    "$oid": "61b76017f97ece3830bd1d3d"
-  },
-  "ticket_type": "ngay",
-  "vehicle_type": "",
-  "used": true,
-  "license_plate": "",
-  "time_in": {
-    "$date": ""
-  },
-  "__v": 0,
-  "IDs": "000002",
-  "due_date": {
-    "$date": ""
-  }
-},{
-  "_id": {
-    "$oid": "61b76018f97ece3830bd1d3f"
+    "$oid": "61b76018f97ece3830bd2d9e"
   },
     "ticket_type": "ngay",
   "vehicle_type": "",
@@ -42,23 +10,7 @@
     "$date": ""
   },
   "__v": 0,
-  "IDs": "000003",
-  "due_date": {
-    "$date": ""
-  }
-},{
-  "_id": {
-    "$oid": "61b76019f97ece3830bd1d41"
-  },
-    "ticket_type": "ngay",
-  "vehicle_type": "",
-  "used": true,
-  "license_plate": "",
-  "time_in": {
-    "$date": ""
-  },
-  "__v": 0,
-  "IDs": "000004",
+  "IDs": "020",
   "due_date": {
     "$date": ""
   }

@@ -17,7 +17,7 @@ router.get('/month_ticket/:page', async (req, res) => {
   let perPage = 10
   let page = req.params.page || 1
 
-  const tickets = await Ticket.find({used: true })
+  const tickets = await Ticket.find({ticket_type: "thang" })
     // .find({ vehicle_type: "ngay" })
     // .skip((perPage * page) - perPage)
     // .limit(perPage)
@@ -258,8 +258,9 @@ router.put('/create_monthly_ticket/:IDs', async (req, res) => {
   })
 
   await revenue.save()
-
+  
   res.send(ticket);
+  
 });
 
 router.delete('/:id', async (req, res) => {

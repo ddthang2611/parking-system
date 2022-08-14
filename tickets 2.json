@@ -1,0 +1,561 @@
+[{
+  "_id": {
+    "$oid": "61b75ffdf97ece3830bd1d54"
+  },
+  "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "006",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76017f97ece3830bd1d35"
+  },
+  "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "007",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d43"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "008",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76019f97ece3830bd1d67"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "009",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d89"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "010",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d78"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "011",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d63"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "012",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d87"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "013",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1e4f"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "014",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d97"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "015",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd4d5a"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "016",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd2d1e"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "017",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1a5e"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "018",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1e8c"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "019",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd3e5e"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "020",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d59"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "021",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d7c"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "022",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1dae"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "023",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1c5e"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "024",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d7a"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "025",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d1e"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "026",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d2e"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "027",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d4d"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "028",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d3e"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "029",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d2d"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "030",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d1a"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "031",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d1b"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "032",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd3e7c"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "033",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d3c"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "034",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d3a"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "035",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d32e"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "36",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d8e"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "37",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d9c"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "038",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd1d8a"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "039",
+  "due_date": {
+    "$date": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b76018f97ece3830bd2d5b"
+  },
+    "ticket_type": "ngay",
+  "vehicle_type": "",
+  "used": true,
+  "license_plate": "",
+  "time_in": {
+    "$date": ""
+  },
+  "__v": 0,
+  "IDs": "040",
+  "due_date": {
+    "$date": ""
+  }
+}]
