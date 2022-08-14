@@ -83,6 +83,7 @@ router.put('/in/:IDs', auth, async (req, res) => {
   if (!ticket) return res.status(404).send('ID vé không hợp lệ')
 
   if (ticket.ticket_type == 'thang') return res.status(400).send('Vé này là vé tháng')
+
   if (ticket.used) return res.status(400).send('Vé đã được sử dụng')
 
   ticket.license_plate = req.body.license_plate,
@@ -162,7 +163,7 @@ router.put('/monthly_in/:IDs', async (req, res) => {
 
   if (!ticket) return res.status(404).send('ID vé tháng không đúng');
 
-  // if (ticket.used) return res.status(404).send('Vé đã được sử dụng')
+  if (ticket.used) return res.status(404).send('Vé đã được sử dụng')
 
   let expiry_date = ticket.due_date - new Date();
 
@@ -258,8 +259,8 @@ router.put('/create_monthly_ticket/:IDs', async (req, res) => {
   })
 
   await revenue.save()
-  
-  res.send(ticket);
+
+  res.send(ticket).send('Tạo vé tháng thành công');
   
 });
 
